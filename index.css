@@ -1,4 +1,8 @@
 /* General styles */
+.banner {
+  font-size: 150px;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -29,6 +33,9 @@ section#hello {
 .topnav {
     background-color: #333;
     overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 /* Style the links inside the navigation bar */

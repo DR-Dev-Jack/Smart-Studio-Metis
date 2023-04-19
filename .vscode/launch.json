@@ -4,12 +4,12 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+
         {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/lukes/OneDrive/Documenten/School/2v1/Coderclass%20(INCC)/Smart-Studio-Metis/index.html",
+            "url": "file:///Users/jackladde/Documents/code/school/websites/Smart-Studio-Metis/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
