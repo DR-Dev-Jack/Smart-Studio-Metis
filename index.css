@@ -49,6 +49,7 @@ section#hello {
     position: sticky;
     top: 0;
     width: 100%;
+    margin-top: -1px;
 }
 
 /* Style the links inside the navigation bar */
@@ -63,8 +64,7 @@ section#hello {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #444;
 }
 
 
